@@ -3,8 +3,8 @@
 
 ## Install
 
-    $ git clone https://github.com/ORG/PROJECT.git
-    $ cd PROJECT
+    $ git clone https://github.com/mdlucas/ListFilter.git
+    $ cd ListFilter
     $ npm install
 
 
